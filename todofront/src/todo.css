@@ -1,0 +1,10 @@
+const h1 = {
+    textAlign: "center",
+    margin: "10px",
+  };
+  
+  const button = {
+    backgroundColor: "navy",
+    display: "block",
+    margin: "auto",
+  };
